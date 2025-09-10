@@ -1,2 +1,2 @@
-# thesis
-Bsc thesis 2022
+# Thesis
+Bsc thesis 2022 - Stereotype formation
